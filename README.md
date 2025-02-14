@@ -1,4 +1,4 @@
-ustomer Retention and Churn Analysis 📊
+Customer Retention and Churn Analysis 📊
 
 Project Overview
 
